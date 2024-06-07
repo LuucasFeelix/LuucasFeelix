@@ -7,7 +7,7 @@
   
 
 
-| <a href="https://github.com/LuucasFeelix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuucasFeelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuucasFeelix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasFeelix&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/LuucasFeelix/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuucasFeelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuucasFeelix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasFeelix&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
