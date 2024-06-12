@@ -22,8 +22,9 @@
 
 <div>
   <!--div que coloca as imagens das linguagens-->
-<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" alt="Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 </div>
 
  ![Snake animation](https://github.com/LuucasFeelix/LuucasFeelix/blob/output/github-contribution-grid-snake.svg)
