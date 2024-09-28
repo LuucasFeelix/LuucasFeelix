@@ -27,7 +27,9 @@
 <code><img height="40" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 </div>
 
- ![Snake animation](https://github.com/LuucasFeelix/LuucasFeelix/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/LuucasFeelix/LuucasFeelix/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br />
 <br />
