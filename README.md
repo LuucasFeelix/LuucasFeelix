@@ -1,10 +1,22 @@
-<br />
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Olá Eu sou o Lucas Felix
+###
 
-- 🔭 Hoje Trabalho com Back-End
-- 🌱 Estudando programa Oracle Next Education em Back-End
-  
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 
 | <a href="https://github.com/LuucasFeelix/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuucasFeelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuucasFeelix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasFeelix&layout=compact&theme=tokyonight&hide_border=true" /></a> |
