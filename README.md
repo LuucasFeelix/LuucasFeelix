@@ -24,13 +24,17 @@
 <code><img height="40" alt="Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 </div>
-##
+###
 
-| <a href="https://github.com/LuucasFeelix/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuucasFeelix&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuucasFeelix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasFeelix&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<h3 align="left">🔥   Minhas Estatísticas :</h3>
 
-##
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuucasFeelix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 <div> 
   <a href="https://instagram.com/luucasfeelix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasfelix1925@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
