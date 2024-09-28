@@ -28,16 +28,6 @@
 
 ###
 
-<h3 align="left">🔥   Minhas Estatísticas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuucasFeelix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div> 
   <a href="https://instagram.com/luucasfeelix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasfelix1925@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -50,5 +40,12 @@
 
 ###
 
-<br />
-<br />
+<h3 align="left">🔥   Minhas Estatísticas :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuucasFeelix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
