@@ -1,12 +1,12 @@
-<h1 align="left">Aooooba 👋?</h1>
+<h2 align="left">Aooooba 👋</h2>
 
 ###
 
-<p align="left">Meu nome e Lucas sou um Desenvolvedor Junior, em automações web</p>
+<p align="left">Meu nome e Lucas, sou um Desenvolvedor Junior em automações web</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
