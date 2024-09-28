@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome e Lucas, sou um Desenvolvedor Junior em automações web</p>
+<p align="left">Meu nome é Lucas, sou um Desenvolvedor Junior em automações web</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo C#<br>🎯 Objetivos: Me tornar um programador melhor que ontem!.<br></p>
 
 ###
 
